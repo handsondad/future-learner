@@ -14,8 +14,14 @@ R1-Zero 学会了生成详细的推理步骤，自我检查解决方案，并在
 
 ## DeepSeek R1 架构设计
 
+参考 Andriy Burkov：
 <p align="center">
   <img width="100%" src="figures/DeepSeek R1 Architecture.png">
+</p>
+
+参考清华大学刘知远老师：
+<p align="center">
+  <img width="100%" src="figures/DeepSeek R1 训练过程.jpg">
 </p>
 
 参考下Open R1的复刻架构图：
