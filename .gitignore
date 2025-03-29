@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+jupyter-ai-logs
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
