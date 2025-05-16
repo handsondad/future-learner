@@ -10,6 +10,8 @@ AI-Powered Era of Learning
 ## AI服务
 
 - 👉 [超算互联网](https://www.scnet.cn/) - 国家超算互联网计算服务，提供人工智能服务和高性能计算服务。
+- 👉 [IPinfo](https://ipinfo.io/) - 地理位置数据库 IPinfo 推出的免费服务，IP 查询地理位置，无需信用卡，API 请求次数不受限制。
+- 👉 [Mermaid AI](https://mermaid.live/) - AI powered diagramming. Transform diagramming with fast, efficient prompt-to-diagram generation.
 
 ## AI工具
 
@@ -18,8 +20,15 @@ AI-Powered Era of Learning
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
+- 🤗 [Cherry Studio](https://www.cherry-ai.com/) - Cherry Studio is a desktop client that supports for multiple LLM providers. 👉 [开源代码](https://github.com/CherryHQ/cherry-studio)
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
+- 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+- 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
+- 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/droidrun/droidrun)
+- 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
+- 🤗 [Scraperr](https://github.com/jaypyles/Scraperr) - 网络爬虫的 Web 控制台。
+- 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 
 ## AI学习
 
@@ -45,4 +54,5 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 ## AI作品
 
+- 👉 [MusicMint](https://www.musicmint.ai/) - Create Any Style of Music with AI Technology.
 
