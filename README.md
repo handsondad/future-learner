@@ -29,6 +29,7 @@ AI-Powered Era of Learning
 - 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
 - 🤗 [Scraperr](https://github.com/jaypyles/Scraperr) - 网络爬虫的 Web 控制台。
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
+- 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
 
 ## AI学习
 
@@ -51,8 +52,10 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺️ [B站跟李沐学AI](https://space.bilibili.com/1567748478/)
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 
 ## AI作品
 
 - 👉 [MusicMint](https://www.musicmint.ai/) - Create Any Style of Music with AI Technology.
-
+- 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
+- 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
