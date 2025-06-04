@@ -30,6 +30,7 @@ AI-Powered Era of Learning
 - 🤗 [Scraperr](https://github.com/jaypyles/Scraperr) - 网络爬虫的 Web 控制台。
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 - 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
+- 🤗 [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
 
 ## AI学习
 
