@@ -15,22 +15,42 @@ AI-Powered Era of Learning
 
 ## AI工具
 
-- 👉 [Mistral OCR](https://mistralocr.net/) - 一个提供文档理解API的服务，专注于光学字符识别（OCR）技术。
-- 👉 [Colab](https://colab.research.google.com/) - 一个提供自动机器学习和数据分析的工具。
-- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
-- 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
-- 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
-- 🤗 [Cherry Studio](https://www.cherry-ai.com/) - Cherry Studio is a desktop client that supports for multiple LLM providers. 👉 [开源代码](https://github.com/CherryHQ/cherry-studio)
+### AI开发工具
+
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+
+### AI聊天工具
+
+- 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
+- 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
+- 🤗 [Cherry Studio](https://www.cherry-ai.com/) - Cherry Studio is a desktop client that supports for multiple LLM providers. 👉 [开源代码](https://github.com/CherryHQ/cherry-studio)
 - 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
+
+### AI自动化工具
+
 - 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/droidrun/droidrun)
-- 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
+- 🤗 [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+- 👉 [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
+- 👉 [Web-UI](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
+- 👉 [Stagehand](https://github.com/browserbase/stagehand) - The AI Browser Automation Framework.
+- 👉 [Playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - 🤗 [Scraperr](https://github.com/jaypyles/Scraperr) - 网络爬虫的 Web 控制台。
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 - 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
-- 🤗 [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+
+### AI多模态工具
+
+- 👉 [Mistral OCR](https://mistralocr.net/) - 一个提供文档理解API的服务，专注于光学字符识别（OCR）技术。
+- 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
+
+### AI数据分析工具
+
+- 👉 [Colab](https://colab.research.google.com/) - 一个提供自动机器学习和数据分析的工具。
+- 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https://github.com/sinaptik-ai/pandas-ai)
+- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
+- 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
 
 ## AI学习
 
@@ -57,6 +77,28 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 ## AI作品
 
+### AI->艺术
+
 - 👉 [MusicMint](https://www.musicmint.ai/) - Create Any Style of Music with AI Technology.
+
+### AI->投资
+
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
+
+### AI->软件
+
+#### Streamlit
+
+- [](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+- 👉 [Essay-Writer](https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer) - This repository contains the source code for an autonomous multi-agent system built with CrewAI and LangChain. The project enables AI agents to collaborate on tasks such as researching, writing, and editing essays. 
+- 👉 [Ollama Playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
+
+
+
+
+## AI-Awesome
+
+- 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+- 👉 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
+- 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
