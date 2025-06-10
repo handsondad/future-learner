@@ -17,9 +17,15 @@ AI-Powered Era of Learning
 
 ### AI开发工具
 
+#### 模型优化
+
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+
+#### Agent工具
+
+- 👉 [Google Fullstack Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph.
 
 ### AI聊天工具
 
@@ -90,12 +96,9 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 #### Streamlit
 
-- [](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+- [Agent-Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - 👉 [Essay-Writer](https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer) - This repository contains the source code for an autonomous multi-agent system built with CrewAI and LangChain. The project enables AI agents to collaborate on tasks such as researching, writing, and editing essays. 
 - 👉 [Ollama Playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
-
-
-
 
 ## AI-Awesome
 
