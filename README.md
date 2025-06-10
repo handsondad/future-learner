@@ -6,6 +6,7 @@ AI-Powered Era of Learning
 - 👉 [KhanMigo](https://www.khanmigo.ai/) - 一个专注于教育科技的在线平台，它结合了人工智能、机器学习和大数据技术来提供个性化和互动式的学习体验。是可汗学院+GPT-4的前沿教育探索。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Together.ai](https://www.together.ai/) - 一个专注于推动人工智能技术民主化和协作的在线平台。该平台的核心愿景是通过聚集全球开发者、研究人员和组织的力量，共同构建、实验和迭代AI模型，从而促进AI领域的开放性和创新。
+- 👉 [飞智平台](https://flagopen.baai.ac.cn/) - 智源研究院模型平台。
 
 ## AI服务
 
@@ -25,14 +26,30 @@ AI-Powered Era of Learning
 
 #### Agent工具
 
-- 👉 [Google Fullstack Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph.
+- 👉 [Google Fullstack Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini  and LangGraph.
+- 👉 [Pydantic-AI](https://github.com/pydantic/pydantic-ai) - Agent Framework to use Pydantic with LLMs.
+- 👉 [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- 👉 [Magentic-UI](https://github.com/microsoft/Magentic-UI) - A research prototype of a human-centered web agent.
+- 👉 [A2A](https://github.com/google-a2a) - Agent to Agent协议。
+
+#### MCP工具
+
+- 👉 [MCP](https://github.com/modelcontextprotocol) - MCP协议官方网站。
+- 👉 [MCP官方Servers](https://github.com/modelcontextprotocol/servers) - This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources.
+- 👉 [MCP Servers](https://mcp.so/) - Connect the world with MCP. Find awesome MCP Servers. Build AI Agents quickly.
+
+#### DeepResearch工具
+
+- 👉 [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - SkyworkAI开放的DeepResearchAgent工具。
+- 👉 [Open Deep Research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
+- 👉 [LangChain Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open Deep Research is an experimental, fully open-source research assistant that automates deep research and produces comprehensive reports on any topic. 
 
 ### AI聊天工具
 
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobe-chat) - 一键免费拥有你自己的Chat应用。
 - 🤗 [Cherry Studio](https://www.cherry-ai.com/) - Cherry Studio is a desktop client that supports for multiple LLM providers. 👉 [开源代码](https://github.com/CherryHQ/cherry-studio)
-- 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
+
 
 ### AI自动化工具
 
@@ -50,6 +67,7 @@ AI-Powered Era of Learning
 
 - 👉 [Mistral OCR](https://mistralocr.net/) - 一个提供文档理解API的服务，专注于光学字符识别（OCR）技术。
 - 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
+- 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
 
 ### AI数据分析工具
 
@@ -57,6 +75,11 @@ AI-Powered Era of Learning
 - 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https://github.com/sinaptik-ai/pandas-ai)
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
 - 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
+
+### AI创作工具
+
+- 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可视化图表。
+- 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 
 ## AI学习
 
@@ -92,6 +115,10 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
 
+### AI->咨询
+
+- 👉 [Hacker News](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+
 ### AI->软件
 
 #### Streamlit
@@ -105,3 +132,5 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - 👉 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
+- 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
+- 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
