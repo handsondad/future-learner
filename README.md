@@ -13,6 +13,7 @@ AI-Powered Era of Learning
 - 👉 [超算互联网](https://www.scnet.cn/) - 国家超算互联网计算服务，提供人工智能服务和高性能计算服务。
 - 👉 [IPinfo](https://ipinfo.io/) - 地理位置数据库 IPinfo 推出的免费服务，IP 查询地理位置，无需信用卡，API 请求次数不受限制。
 - 👉 [Mermaid AI](https://mermaid.live/) - AI powered diagramming. Transform diagramming with fast, efficient prompt-to-diagram generation.
+- 👉 [美国地址生成器](https://www.usaddrgen.com/zh/) - 随机生成美国地址和个人身份信息，美国地址生成器使用真实的地址数据结构，提供准确的地理信息。所有个人信息均为虚构测试数据。
 
 ## AI工具
 
@@ -37,6 +38,7 @@ AI-Powered Era of Learning
 - 👉 [MCP](https://github.com/modelcontextprotocol) - MCP协议官方网站。
 - 👉 [MCP官方Servers](https://github.com/modelcontextprotocol/servers) - This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources.
 - 👉 [MCP Servers](https://mcp.so/) - Connect the world with MCP. Find awesome MCP Servers. Build AI Agents quickly.
+- 👉 [文颜 MCP Server](https://github.com/caol64/wenyan-mcp) - 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 
 #### DeepResearch工具
 
@@ -80,6 +82,8 @@ AI-Powered Era of Learning
 
 - 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可视化图表。
 - 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
+- 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with professional fade haircuts including low taper fade and taper low fade styles. 换发型！
+- 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 
 ## AI学习
 
@@ -103,6 +107,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
+- 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
 ## AI作品
 
@@ -115,22 +120,28 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
 
-### AI->咨询
+### AI->资讯
 
 - 👉 [Hacker News](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
+- 👉 [Reddit Top 10](https://reddit-top.pages.dev/) - Browse the hottest posts from your favorite subreddits.
 
 ### AI->软件
 
 #### Streamlit
 
-- [Agent-Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
+- 👉 [Agent-Toolkit](https://github.com/JoshuaC215/agent-service-toolkit) - Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit
 - 👉 [Essay-Writer](https://github.com/mesutdmn/Autonomous-Multi-Agent-Systems-with-CrewAI-Essay-Writer) - This repository contains the source code for an autonomous multi-agent system built with CrewAI and LangChain. The project enables AI agents to collaborate on tasks such as researching, writing, and editing essays. 
 - 👉 [Ollama Playground](https://github.com/NarimanN2/ollama-playground) - Interesting LLM projects that I created for my YouTube channel using Ollama's open-source models.
 
 ## AI-Awesome
 
+- 👉 [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
 - 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - 👉 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
+
+## AI创业
+
+- 👉 [大学生创业大全](https://cy.urongda.com/) - 创业大全，为大学生创业者提供优质资源和模板。
