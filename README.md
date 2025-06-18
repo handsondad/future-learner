@@ -39,6 +39,9 @@ AI-Powered Era of Learning
 - 👉 [MCP官方Servers](https://github.com/modelcontextprotocol/servers) - This repository is a collection of reference implementations for the Model Context Protocol (MCP), as well as references to community built servers and additional resources.
 - 👉 [MCP Servers](https://mcp.so/) - Connect the world with MCP. Find awesome MCP Servers. Build AI Agents quickly.
 - 👉 [文颜 MCP Server](https://github.com/caol64/wenyan-mcp) - 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
+- 👉 [MCP-Market.cn](https://www.mcpmarket.cn/) - Discover Global MCP Servers. Unleash the power of AI Agents.
+- 👉 [MCP-Market.com](https://mcpmarket.com/) - The Agent Infrastructure You've Been Waiting For Connect your AI agents to the tools they need. Coming soon.
+
 
 #### DeepResearch工具
 
