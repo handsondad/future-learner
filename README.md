@@ -3,6 +3,8 @@ AI-Powered Era of Learning
 
 ## AI平台
 
+- 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
+- 👉 [Khan Academy](https://www.khanacademy.org/) - 提供大量免费课程，包括数学、编程、科学等。
 - 👉 [KhanMigo](https://www.khanmigo.ai/) - 一个专注于教育科技的在线平台，它结合了人工智能、机器学习和大数据技术来提供个性化和互动式的学习体验。是可汗学院+GPT-4的前沿教育探索。
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Together.ai](https://www.together.ai/) - 一个专注于推动人工智能技术民主化和协作的在线平台。该平台的核心愿景是通过聚集全球开发者、研究人员和组织的力量，共同构建、实验和迭代AI模型，从而促进AI领域的开放性和创新。
@@ -67,12 +69,14 @@ AI-Powered Era of Learning
 - 🤗 [Scraperr](https://github.com/jaypyles/Scraperr) - 网络爬虫的 Web 控制台。
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 - 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
+- 👉 [n8n工作流导航](https://n8nworkflow.net) - n8n是一个工作流自动化编排软件，这个网站收集已经编排好的n8n工作流，目前共有近2000个。
 
 ### AI多模态工具
 
 - 👉 [Mistral OCR](https://mistralocr.net/) - 一个提供文档理解API的服务，专注于光学字符识别（OCR）技术。
 - 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
 - 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
+- 👉 [TTS-Omni](https://www.ttsomni.com/) - Free AI Text to Speech with Natural Human-Like Voices.
 
 ### AI数据分析工具
 
