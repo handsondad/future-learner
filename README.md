@@ -9,6 +9,7 @@ AI-Powered Era of Learning
 - 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Together.ai](https://www.together.ai/) - 一个专注于推动人工智能技术民主化和协作的在线平台。该平台的核心愿景是通过聚集全球开发者、研究人员和组织的力量，共同构建、实验和迭代AI模型，从而促进AI领域的开放性和创新。
 - 👉 [飞智平台](https://flagopen.baai.ac.cn/) - 智源研究院模型平台。
+- 👉 [Learning About](https://learning.google.com/experiments/learn-about/signup) - Learning About 是谷歌的新型学习平台，使用 AI 生成学习教程。
 
 ## AI服务
 
@@ -43,6 +44,7 @@ AI-Powered Era of Learning
 - 👉 [文颜 MCP Server](https://github.com/caol64/wenyan-mcp) - 文颜 MCP Server 可以让 AI 自动将 Markdown 文章排版后发布至微信公众号。
 - 👉 [MCP-Market.cn](https://www.mcpmarket.cn/) - Discover Global MCP Servers. Unleash the power of AI Agents.
 - 👉 [MCP-Market.com](https://mcpmarket.com/) - The Agent Infrastructure You've Been Waiting For Connect your AI agents to the tools they need. Coming soon.
+- 👉 [MCP Playground](https://mcpso.cc/kchat/index.html) - 这个 Web 应用可以用作 MCP 客户端，指定 AI 模型和 MCP 服务器，在线使用。
 
 
 #### DeepResearch工具
