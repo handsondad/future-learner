@@ -79,6 +79,7 @@ AI-Powered Era of Learning
 - 👉 [DeepPDF](https://deeppdf.ai/pdf-translator) - Translate PDFs with AI PDF Translator on DeepPDF, offering a side-by-side bilingual view and support for 100+ languages.
 - 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
 - 👉 [TTS-Omni](https://www.ttsomni.com/) - Free AI Text to Speech with Natural Human-Like Voices.
+- 👉 [PDF to Video AI](https://pdftovideo.ai/) - Create explainer videos from PDFs or any contents in minutes—for learning, making money, and sharing on social media.
 
 ### AI数据分析工具
 
