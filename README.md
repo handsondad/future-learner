@@ -94,6 +94,7 @@ AI-Powered Era of Learning
 - 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with professional fade haircuts including low taper fade and taper low fade styles. 换发型！
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
+- 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图像生成和编辑模型"。对于这个模型，各个任务场景下生成的令人惊艳的图片和提示词 👉 [Awesome](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 仓库。
 
 ## AI学习
 
