@@ -130,6 +130,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
+- 👉 [LEAN](https://www.lean.io/) - LEAN is the world's leading open-source quantitative trading technology. Research, backtest, optimize, and then live-trade on hundreds of venues. 👉 [开源代码](https://github.com/QuantConnect/Lean)
 
 ### AI->资讯
 
