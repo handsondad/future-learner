@@ -96,6 +96,52 @@ AI-Powered Era of Learning
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 - 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图像生成和编辑模型"。对于这个模型，各个任务场景下生成的令人惊艳的图片和提示词 👉 [Awesome](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 仓库。
 
+### 日常实用工具
+
+- 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
+- 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
+- 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialsproject/pymatgen)
+- 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。具有AI功能[Smart Excalidraw](https://github.com/liujuntao123/smart-excalidraw-next)使用自然语言让 AI 生成手绘风格的示意图。
+- 👉 [clipsketch-ai](https://github.com/RanFeng/clipsketch-ai) - 将视频瞬间转化为手绘故事 Turn Video Moments into Hand-Drawn Stories
+- 🤗 [Oxdraw](https://github.com/RohanAdwankar/oxdraw) - 一个Rust语言编写的Web服务，用来可视化生成图表，同时给出对应的Mermaid语法代码。
+- 🤗 [Screenity](https://github.com/alyssaxuu/screenity) - 开源的录频工具。The free and privacy-friendly screen recorder with no limits.
+- 🤗 [LosslessCut](https://github.com/mifi/lossless-cut) - 开源的音视频剪辑工具。The swiss army knife of lossless video/audio editing.
+- 🤗 [HandBrake](https://github.com/HandBrake/HandBrake) - 一个非常强大的开源的视频格式转化工具。
+- 👉 [Zotero](https://www.zotero.org/) - 一款开源的科研助手。Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share research. 👉 [开源代码](https://github.com/zotero/zotero)
+- 👉 [Datawrapper](https://www.datawrapper.de/) - 免费的数据可视化工具。Enrich your stories with charts, maps, and tables. 类似的一个在线的数据图表生成器[UChart](https://www.uwarp.design/uchart)让没有编程背景的用户也能创建专业数据图表。
+- 👉 [Bokeh](https://github.com/bokeh/bokeh) - 数据可视化工具包。Interactive Data Visualization in the browser, from Python.
+- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker) - 可以交互的数据可视化工具包。Turn your dataframe into an interactive UI for visual analysis.
+- 🤗 [just-the-docs](https://github.com/just-the-docs/just-the-docs) - 开源的在线文档制作工具。A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+- 👉 [颜色代码表](https://www.ysdaima.com/) - 一站式色彩解决方案，为设计师和开发者提供专业的色彩工具，让设计更出色。
+- 👉 [CodePen](https://codepen.io/) - CodePen是一个在线代码编辑器和社交开发平台，主要面向前端开发者和设计师。
+- 👉 [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个免费的、基于浏览器的三维设计和打印工具，由Autodesk公司开发。它旨在让初学者和有经验的设计师都能轻松创建三维模型，并将其用于3D打印或其他目的。
+- 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
+- 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
+- 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
+- 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般用户提供一个直观、全面的比较工具，用以评估不同语言模型在多种任务和指标上的表现。
+- 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案，而无需从零开始开发复杂的AI模型。👉 [开源代码](https://github.com/langgenius/dify)
+- 👉 [腾讯兔小巢](https://txc.qq.com/) - 腾讯旗下的反馈互动社区工具，可以集成到软件产品中，收集用户的反馈。另外可以找到多款腾讯生态工具。
+- 👉 [HQDFM](https://www.nextpcb.com/dfm) - 一个在线PCB（Printed Circuit Board，印刷电路板）设计审查和可制造性分析（Design for Manufacturing，DFM）服务的平台。
+- 👉 [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI 语音工具，具有多种功能（语音识别、翻译、语音克隆、文本转语音）。
+- 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。 
+- 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。👉 [开源代码](https://github.com/dgtlmoon/changedetection.io)
+- 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
+- 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
+- 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
+- 👉 [Affinity](https://www.affinity.studio/) - 用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
+- 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
+- 👉 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper.
+- 🤗 [EternalTerminal](https://github.com/MisterTea/EternalTerminal) - 基于SSH的远程登录工具，自动重连上一次的会话，即不会发生会话中断。
+- 🤗 [NocoBase](https://github.com/nocobase/nocobase) - NocoBase是一个极易扩展的AI无代码开发平台。
+- 🤗 [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - 一个桌面的RSS阅读器。
+- 🤗 [Shell360](https://github.com/nashaofu/shell360) - 开源的跨平台SSH客户端，支持Windows、macOS、Linux、Android 和 iOS。
+- 🤗 [Handy](https://github.com/cjpais/Handy) - 免费、开源的跨平台桌面应用，用来语音转文本。
+- 🤗 [OpenZL](https://github.com/facebook/openzl) - Meta公司新推出的一种压缩工具，适合压缩结构化数据（比如数据库），压缩比更高，速度更快。
+- 🤗 [Clone Wars](https://github.com/GorvGoyl/Clone-Wars) - 这个仓库收集了各种流行网站（Airbnb, Amazon, Instagram, Netflix, TikTok 等）的开源克隆，已经超过100多个网站了。
+- 🤗 [SLOCCount](https://tools.simonwillison.net/) - 代码统计工具。
+- 🤗 [Zensical](https://github.com/zensical/zensical) - 静态文档网站生成器 Material for MkDocs 的作者，写的升级版，完全兼容 MkDocs。
+- 🤗 [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - 一个自搭建的、基于 Web 的文件管理器
+
 ## AI学习
 
 GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)一个精心策划的机器学习资源列表，旨在帮助初学者和专家找到与机器学习、深度学习和人工智能相关的高质量工具、软件、库、教程、论文、课程以及博客文章等。
