@@ -46,7 +46,6 @@ AI-Powered Era of Learning
 - 👉 [MCP-Market.com](https://mcpmarket.com/) - The Agent Infrastructure You've Been Waiting For Connect your AI agents to the tools they need. Coming soon.
 - 👉 [MCP Playground](https://mcpso.cc/kchat/index.html) - 这个 Web 应用可以用作 MCP 客户端，指定 AI 模型和 MCP 服务器，在线使用。
 
-
 #### DeepResearch工具
 
 - 👉 [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - SkyworkAI开放的DeepResearchAgent工具。
@@ -95,6 +94,21 @@ AI-Powered Era of Learning
 - 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with professional fade haircuts including low taper fade and taper low fade styles. 换发型！
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 - 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图像生成和编辑模型"。对于这个模型，各个任务场景下生成的令人惊艳的图片和提示词 👉 [Awesome](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 仓库。
+- 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
+
+### AI开发工具
+
+- 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
+- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
+- 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
+- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
+- 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
+- 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+
+### AI学习工具
+
+- 👉 [Magic English Buddy](https://github.com/xckevin/magic-english-buddy) - 面向小朋友的英语阅读学习工具，通过 AI 生成个性化英语故事，提供文本朗读和单词高亮。
+- 👉 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物理教学书。它源自荷兰著名的物理演示系列丛书 [ShowdeFysica](http://nvon.nl/)，旨在通过 99 个精选的物理演示实验，帮助教师和学生直观地理解物理学概念。该平台利用 [Jupyter Book](http://teachbooks.tudelft.nl/) 技术，将传统的纸质书转化为支持视频、Python 代码模拟和实时交互的数字教材。
 
 ### 日常实用工具
 
@@ -141,6 +155,7 @@ AI-Powered Era of Learning
 - 🤗 [SLOCCount](https://tools.simonwillison.net/) - 代码统计工具。
 - 🤗 [Zensical](https://github.com/zensical/zensical) - 静态文档网站生成器 Material for MkDocs 的作者，写的升级版，完全兼容 MkDocs。
 - 🤗 [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - 一个自搭建的、基于 Web 的文件管理器
+- 👉 [tunnel.gg](https://tunnl.gg/) - 一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
 
 ## AI学习
 
