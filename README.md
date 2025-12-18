@@ -79,6 +79,7 @@ AI-Powered Era of Learning
 - 👉 [AI Voice Cloing](https://aivoicecloning.io/) - Experience Hyper-Realistic AI Voice Cloning. 免费的语音克隆工具，3 秒录音克隆人声。
 - 👉 [TTS-Omni](https://www.ttsomni.com/) - Free AI Text to Speech with Natural Human-Like Voices.
 - 👉 [PDF to Video AI](https://pdftovideo.ai/) - Create explainer videos from PDFs or any contents in minutes—for learning, making money, and sharing on social media.
+- 👉 [Autolabel](https://github.com/autolabel/autolabel) - 使用大模型实现自动打标过程。
 
 ### AI数据分析工具
 
@@ -86,6 +87,7 @@ AI-Powered Era of Learning
 - 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https://github.com/sinaptik-ai/pandas-ai)
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
 - 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
+- 🤗 [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA) - This is the offical repository of paper "LAMBDA: A large Model Based Data Agent".
 
 ### AI创作工具
 
@@ -104,6 +106,15 @@ AI-Powered Era of Learning
 - 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
 - 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
 - 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+- 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型（LLM）API 的接口，全部以 OpenAI 兼容格式提供。
+- 👉 [LangChain](https://www.langchain.com/) - LangChain 是目前构建 LLM 应用最流行的框架，其内置的 LLMChain 和 PromptTemplate 极其适合快速搭建自动标注流水线。
+- 👉 [LlamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- 👉 [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+- 👉 [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+- 👉 [Ollama](https://ollama.com/) - Chat & build with open models.
+- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
+- 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
+- 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 
 ### AI学习工具
 
@@ -161,6 +172,8 @@ AI-Powered Era of Learning
 
 GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)一个精心策划的机器学习资源列表，旨在帮助初学者和专家找到与机器学习、深度学习和人工智能相关的高质量工具、软件、库、教程、论文、课程以及博客文章等。
 
+### AI理论知识
+
 - 📚️ [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生理解人工智能的基本原理，特别是数据、算法与应用之间的相互关系。
 - 📚️ [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归、决策树、神经网络、计算机视觉、自然语言处理、强化学习，特别归纳了其中适合中学阶段学习的关键知识点。
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
@@ -178,6 +191,12 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺️ [B站跟李沐学AI](https://space.bilibili.com/1567748478/)
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+### AI动手实践
+
+- 👉 [Happy-LLM](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。
+- 👉 [Self-LLM](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程。
+- 👉 [Hello-Agent](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 
