@@ -216,6 +216,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 - 👉 [Hacker News](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - 👉 [Reddit Top 10](https://reddit-top.pages.dev/) - Browse the hottest posts from your favorite subreddits.
+- 👉 [AI Conference Deadlines](https://aideadlin.es/) - Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. To add/edit a conference, send in a pull request. 👉 [开源代码](https://github.com/paperswithcode/ai-deadlines)
 
 ### AI->软件
 
@@ -233,10 +234,6 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
-
-## AI咨询
-
-- 👉 [AI Conference Deadlines](https://aideadlin.es/) - Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. To add/edit a conference, send in a pull request. 👉 [开源代码](https://github.com/paperswithcode/ai-deadlines)
 
 ## AI创业
 
