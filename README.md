@@ -234,6 +234,10 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
 
+## AI咨询
+
+- 👉 [AI Conference Deadlines](https://aideadlin.es/) - Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. To add/edit a conference, send in a pull request. 👉 [开源代码](https://github.com/paperswithcode/ai-deadlines)
+
 ## AI创业
 
 - 👉 [大学生创业大全](https://cy.urongda.com/) - 创业大全，为大学生创业者提供优质资源和模板。
