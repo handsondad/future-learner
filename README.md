@@ -35,6 +35,8 @@ AI-Powered Era of Learning
 - 👉 [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - 👉 [Magentic-UI](https://github.com/microsoft/Magentic-UI) - A research prototype of a human-centered web agent.
 - 👉 [A2A](https://github.com/google-a2a) - Agent to Agent协议。
+- 👉 [LlamaIndex](https://developers.llamaindex.ai/) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- 👉 [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models.
 
 #### MCP工具
 
@@ -45,6 +47,7 @@ AI-Powered Era of Learning
 - 👉 [MCP-Market.cn](https://www.mcpmarket.cn/) - Discover Global MCP Servers. Unleash the power of AI Agents.
 - 👉 [MCP-Market.com](https://mcpmarket.com/) - The Agent Infrastructure You've Been Waiting For Connect your AI agents to the tools they need. Coming soon.
 - 👉 [MCP Playground](https://mcpso.cc/kchat/index.html) - 这个 Web 应用可以用作 MCP 客户端，指定 AI 模型和 MCP 服务器，在线使用。
+- 👉 [MCPHub](https://github.com/samanhappy/mcphub) - The Unified Hub for Model Context Protocol (MCP) Servers.
 
 #### DeepResearch工具
 
@@ -88,6 +91,9 @@ AI-Powered Era of Learning
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
 - 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
 - 🤗 [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA) - This is the offical repository of paper "LAMBDA: A large Model Based Data Agent".
+- 🤗 [Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
+- 🤗 [ai-data-science-team](https://github.com/business-science) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+- 🤗 [Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst) - Auto-Analyst is a fully open-sourced, modular AI system designed to automate data science workflows — from data cleaning and statistical analysis to machine learning and visualization.
 
 ### AI创作工具
 
