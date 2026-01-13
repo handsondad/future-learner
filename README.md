@@ -74,6 +74,7 @@ AI-Powered Era of Learning
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 - 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
 - 👉 [n8n工作流导航](https://n8nworkflow.net) - n8n是一个工作流自动化编排软件，这个网站收集已经编排好的n8n工作流，目前共有近2000个。
+- 👉 [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Open-AutoGLM 智源公司的开源安卓应用，使用自然语言，让 AI 操作手机，进行手机自动化，可以接入各种模型，无需电脑端。
 
 ### AI多模态工具
 
@@ -217,6 +218,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading decisions. This project is for educational purposes only and is not intended for real trading or investment.
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad range of extensions to enhance the user experience according to their needs.
 - 👉 [LEAN](https://www.lean.io/) - LEAN is the world's leading open-source quantitative trading technology. Research, backtest, optimize, and then live-trade on hundreds of venues. 👉 [开源代码](https://github.com/QuantConnect/Lean) 类似国内平台👉 [开源代码](https://github.com/vnpy/vnpy)
+- 👉 [YFinance](https://github.com/ranaroussi/yfinance) - YFinance 是一个非常流行且功能强大的 Python 第三方库，专门用于从 Yahoo Finance（雅虎财经） 免费获取全球金融市场数据。它被广泛应用于量化交易、金融分析、学术研究以及教学等领域。
 
 ### AI->资讯
 
