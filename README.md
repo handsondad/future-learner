@@ -40,7 +40,6 @@ AI-Powered Era of Learning
 - 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
 - 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 - 👉 [Agent Skills 标准](https://agentskills.io/home) - Specification and documentation for Agent Skills
-- 👉 [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) - 精选的 AI 程序编码代理技能、工具和功能列表。 👉 [另外一个](https://github.com/Prat011/awesome-llm-skills)
 - 👉 [Claude Code Skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - 👉 [OpenCode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - 👉 [Hugging Face Skills](https://github.com/huggingface/skills) - Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation.
@@ -249,6 +248,8 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
+- 👉 [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- 👉 [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) - 精选的 AI 程序编码代理技能、工具和功能列表。 👉 [另外一个](https://github.com/Prat011/awesome-llm-skills)
 
 ## AI创业
 
