@@ -22,11 +22,35 @@ AI-Powered Era of Learning
 
 ### AI开发工具
 
+#### AI编程工具
+
+- 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
+- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
+- 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
+- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
+- 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
+- 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+- 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型（LLM）API 的接口，全部以 OpenAI 兼容格式提供。
+- 👉 [LangChain](https://www.langchain.com/) - LangChain 是目前构建 LLM 应用最流行的框架，其内置的 LLMChain 和 PromptTemplate 极其适合快速搭建自动标注流水线。
+- 👉 [LlamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
+- 👉 [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+- 👉 [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+- 👉 [Ollama](https://ollama.com/) - Chat & build with open models.
+- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
+- 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
+- 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
+- 👉 [Agent Skills 标准](https://agentskills.io/home) - Specification and documentation for Agent Skills
+- 👉 [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) - 精选的 AI 程序编码代理技能、工具和功能列表。 👉 [另外一个](https://github.com/Prat011/awesome-llm-skills)
+- 👉 [Claude Code Skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
+- 👉 [OpenCode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- 👉 [Hugging Face Skills](https://github.com/huggingface/skills) - Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation.
+
 #### 模型优化
 
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
+- 👉 [Nemo Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
 
 #### Agent工具
 
@@ -104,24 +128,6 @@ AI-Powered Era of Learning
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 - 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图像生成和编辑模型"。对于这个模型，各个任务场景下生成的令人惊艳的图片和提示词 👉 [Awesome](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 仓库。
 - 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
-
-### AI开发工具
-
-- 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
-- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
-- 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
-- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
-- 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
-- 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型（LLM）API 的接口，全部以 OpenAI 兼容格式提供。
-- 👉 [LangChain](https://www.langchain.com/) - LangChain 是目前构建 LLM 应用最流行的框架，其内置的 LLMChain 和 PromptTemplate 极其适合快速搭建自动标注流水线。
-- 👉 [LlamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- 👉 [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
-- 👉 [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
-- 👉 [Ollama](https://ollama.com/) - Chat & build with open models.
-- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
-- 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
-- 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 
 ### AI学习工具
 
@@ -206,6 +212,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Hello-Agent](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+- 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 ## AI作品
 
