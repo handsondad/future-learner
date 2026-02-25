@@ -22,27 +22,25 @@ AI-Powered Era of Learning
 
 ### AI开发工具
 
-#### AI编程工具
+#### 模型开发
 
-- 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
-- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
-- 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
-- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
-- 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
 - 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型（LLM）API 的接口，全部以 OpenAI 兼容格式提供。
 - 👉 [LangChain](https://www.langchain.com/) - LangChain 是目前构建 LLM 应用最流行的框架，其内置的 LLMChain 和 PromptTemplate 极其适合快速搭建自动标注流水线。
 - 👉 [LlamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
-- 👉 [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
-- 👉 [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
-- 👉 [Ollama](https://ollama.com/) - Chat & build with open models.
-- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
-- 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
-- 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 - 👉 [Agent Skills 标准](https://agentskills.io/home) - Specification and documentation for Agent Skills
 - 👉 [Claude Code Skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - 👉 [OpenCode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - 👉 [Hugging Face Skills](https://github.com/huggingface/skills) - Hugging Face Skills are definitions for AI/ML tasks like dataset creation, model training, and evaluation.
+
+#### 模型部署
+
+- 👉 [vLLM](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs.
+- 👉 [SGLang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
+- 👉 [Ollama](https://ollama.com/) - Chat & build with open models.
+- 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
+- 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
+- 👉 [Xorbits Inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
 
 #### 模型优化
 
@@ -50,6 +48,7 @@ AI-Powered Era of Learning
 - 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
 - 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
 - 👉 [Nemo Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
+- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
 
 #### Agent工具
 
@@ -60,6 +59,7 @@ AI-Powered Era of Learning
 - 👉 [A2A](https://github.com/google-a2a) - Agent to Agent协议。
 - 👉 [LlamaIndex](https://developers.llamaindex.ai/) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - 👉 [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models.
+- 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 
 
 #### MCP工具
 
@@ -77,6 +77,7 @@ AI-Powered Era of Learning
 - 👉 [DeepResearchAgent](https://github.com/SkyworkAI/DeepResearchAgent) - SkyworkAI开放的DeepResearchAgent工具。
 - 👉 [Open Deep Research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.
 - 👉 [LangChain Open Deep Research](https://github.com/langchain-ai/open_deep_research) - Open Deep Research is an experimental, fully open-source research assistant that automates deep research and produces comprehensive reports on any topic. 
+- 👉 [BettaFish](https://github.com/666ghj/BettaFish) - 人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！
 
 ### AI聊天工具
 
@@ -113,11 +114,13 @@ AI-Powered Era of Learning
 - 👉 [Colab](https://colab.research.google.com/) - 一个提供自动机器学习和数据分析的工具。
 - 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https://github.com/sinaptik-ai/pandas-ai)
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
+- 👉 [TOAD](https://toad.readthedocs.io/) - TOAD是针对工业届建模而开发的工具包，针对风险评分卡的建模有针对性的功能。
 - 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
 - 🤗 [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA) - This is the offical repository of paper "LAMBDA: A large Model Based Data Agent".
 - 🤗 [Gen AI Toolbox for Databases](https://github.com/googleapis/genai-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - 🤗 [ai-data-science-team](https://github.com/business-science) - An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
 - 🤗 [Auto-Analyst](https://github.com/FireBird-Technologies/Auto-Analyst) - Auto-Analyst is a fully open-sourced, modular AI system designed to automate data science workflows — from data cleaning and statistical analysis to machine learning and visualization.
+- 🤗 [Vanna](https://github.com/vanna-ai/vanna) - Chat with your SQL database. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval
 
 ### AI创作工具
 
@@ -127,6 +130,11 @@ AI-Powered Era of Learning
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 - 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图像生成和编辑模型"。对于这个模型，各个任务场景下生成的令人惊艳的图片和提示词 👉 [Awesome](https://github.com/PicoTrex/Awesome-Nano-Banana-images) 仓库。
 - 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
+- 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
+- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
+- 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
+- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
+- 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
 
 ### AI学习工具
 
@@ -191,6 +199,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
+- 👉 [神经网络的视觉解释](https://visualrambling.space/neural-network/) - 这个网站用动画解释"什么是神经网络"。
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。**相当好！**🤩
 - 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/automated-interpretability)
@@ -212,6 +221,10 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
 - 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+
+### AI论文
+
+- 📚️ [Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 
 ## AI作品
 
@@ -250,6 +263,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
 - 👉 [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - 👉 [Awesome Agent Skills](https://github.com/heilcheng/awesome-agent-skills) - 精选的 AI 程序编码代理技能、工具和功能列表。 👉 [另外一个](https://github.com/Prat011/awesome-llm-skills)
+- 👉 [Awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
 ## AI创业
 
