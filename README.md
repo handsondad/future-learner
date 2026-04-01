@@ -41,6 +41,7 @@ AI-Powered Era of Learning
 - 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
 - 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 - 👉 [Xorbits Inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on cloud, on-prem, or your laptop — all through one unified, production-ready inference API.
+- 👉 [canirun.ai](https://www.canirun.ai) - 网页检测你的机器可以运行那些本地的AI模型。 
 
 #### 模型优化
 
@@ -60,6 +61,7 @@ AI-Powered Era of Learning
 - 👉 [LlamaIndex](https://developers.llamaindex.ai/) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - 👉 [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models.
 - 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 
+- 👉 [claw-code](https://github.com/instructkr/claw-code) - 编译为其他语言的Claude code
 
 #### MCP工具
 
