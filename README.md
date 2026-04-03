@@ -51,6 +51,10 @@ AI-Powered Era of Learning
 - 👉 [Nemo Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
 - 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
 
+#### AI安全工具
+
+- 👉 [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. 
+
 #### Agent工具
 
 - 👉 [Google Fullstack Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini  and LangGraph.
