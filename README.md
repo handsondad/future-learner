@@ -62,6 +62,7 @@ AI-Powered Era of Learning
 - 👉 [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models.
 - 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 
 - 👉 [claw-code](https://github.com/instructkr/claw-code) - 编译为其他语言的Claude code
+- 👉 [Open Agent SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 
 #### MCP工具
 
@@ -137,12 +138,16 @@ AI-Powered Era of Learning
 - 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
 - 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
 - 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
+- 👉 [ArcReel](https://github.com/ArcReel/ArcReel) - 开源的 AI 视频生成工作台，输入一本小说，自动完成剧本、人物设计、分镜、短视频生成。
 
 ### AI学习工具
 
 - 👉 [Magic English Buddy](https://github.com/xckevin/magic-english-buddy) - 面向小朋友的英语阅读学习工具，通过 AI 生成个性化英语故事，提供文本朗读和单词高亮。
 - 👉 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物理教学书。它源自荷兰著名的物理演示系列丛书 [ShowdeFysica](http://nvon.nl/)，旨在通过 99 个精选的物理演示实验，帮助教师和学生直观地理解物理学概念。该平台利用 [Jupyter Book](http://teachbooks.tudelft.nl/) 技术，将传统的纸质书转化为支持视频、Python 代码模拟和实时交互的数字教材。
-
+- 👉 [Claude Code互动教程](https://claude.nagdy.me/) - Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
+- 👉 [Claude Code Unpacked](https://ccunpacked.dev/) - 根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
+- 👉 [.claude/ 子目录](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - Claude Code 会生成 .claude/ 子目录，所有 AI 处理的底层数据都放在里面，本文研究这个目录到底有什么。
+ 
 ### 日常实用工具
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
@@ -189,6 +194,7 @@ AI-Powered Era of Learning
 - 🤗 [Zensical](https://github.com/zensical/zensical) - 静态文档网站生成器 Material for MkDocs 的作者，写的升级版，完全兼容 MkDocs。
 - 🤗 [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - 一个自搭建的、基于 Web 的文件管理器
 - 👉 [tunnel.gg](https://tunnl.gg/) - 一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
+- 👉 [FontInAss](https://github.com/Yuri-NagaSaki/FontInAss) - 开源的字幕字体子集化工具，将所需的字体字形嵌入字幕文件。
 
 ## AI学习
 
@@ -214,6 +220,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺️ [B站跟李沐学AI](https://space.bilibili.com/1567748478/)
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Hands-on-RL)
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
+- 👉 [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md) - 工程师的机器学习教程，解释基本概念。
 
 ### AI动手实践
 
@@ -222,7 +229,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Hello-Agent](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. 
 
 ### AI论文
 
