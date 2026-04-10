@@ -199,6 +199,7 @@ AI-Powered Era of Learning
 - 🤗 [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) - 一个自搭建的、基于 Web 的文件管理器
 - 👉 [tunnel.gg](https://tunnl.gg/) - 一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
 - 👉 [FontInAss](https://github.com/Yuri-NagaSaki/FontInAss) - 开源的字幕字体子集化工具，将所需的字体字形嵌入字幕文件。
+- 👉 [OpenScreen](https://github.com/siddharthvaddem/openscreen) - 跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。
 
 ## AI学习
 
