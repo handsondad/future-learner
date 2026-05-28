@@ -41,7 +41,7 @@ AI-Powered Era of Learning
 - 👉 [OpenRouter](https://openrouter.ai/) - The Unified Interface For LLMs.
 - 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 - 👉 [Xorbits Inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on c[...]
-- 👉 [canirun.ai](https://www.canirun.ai) - 网页检测你的机器可以运行那些本地的AI模型。 
+- 👉 [canirun.ai](https://www.canirun.ai) - 网页检测你的机器可以运行那些本地的AI模型。
 
 #### 模型优化
 
@@ -53,7 +53,7 @@ AI-Powered Era of Learning
 
 #### AI安全工具
 
-- 👉 [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models. 
+- 👉 [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 
 #### Agent工具
 
@@ -64,7 +64,7 @@ AI-Powered Era of Learning
 - 👉 [A2A](https://github.com/google-a2a) - Agent to Agent协议。
 - 👉 [LlamaIndex](https://developers.llamaindex.ai/) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - 👉 [DSPy](https://github.com/stanfordnlp/dspy) - DSPy: The framework for programming—not prompting—language models.
-- 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 
+- 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 - 👉 [claw-code](https://github.com/instructkr/claw-code) - 编译为其他语言的Claude code
 - 👉 [Open Agent SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 
@@ -140,7 +140,7 @@ AI-Powered Era of Learning
 - 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
 - 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音��...
 - 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
-- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。 
+- 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。
 - 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
 - 👉 [ArcReel](https://github.com/ArcReel/ArcReel) - 开源的 AI 视频生成工作台，输入一本小说，自动完成剧本、人物设计、分镜、短视频生成。
 
@@ -151,7 +151,7 @@ AI-Powered Era of Learning
 - 👉 [Claude Code互动教程](https://claude.nagdy.me/) - Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
 - 👉 [Claude Code Unpacked](https://ccunpacked.dev/) - 根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
 - 👉 [.claude/ 子目录](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - Claude Code 会生成 .claude/ 子目录，所有 AI 处理的底层数据都放在里面，本文研�...
- 
+
 ### 日常实用工具
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
@@ -179,7 +179,7 @@ AI-Powered Era of Learning
 - 👉 [腾讯兔小巢](https://txc.qq.com/) - 腾讯旗下的反馈互动社区工具，可以集成到软件产品中，收集用户的反馈。另外可以找到多款腾讯生态工具。
 - 👉 [HQDFM](https://www.nextpcb.com/dfm) - 一个在线PCB（Printed Circuit Board，印刷电路板）设计审查和可制造性分析（Design for Manufacturing，DFM）服务的平台。
 - 👉 [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI 语音工具，具有多种功能（语音识别、翻译、语音克隆、文本转语音）。
-- 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。 
+- 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。
 - 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它�...
 - 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
 - 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户��...
@@ -234,7 +234,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Hello-Agent](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-- 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. 
+- 👉 [LLM-Course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
 ### AI论文
 
