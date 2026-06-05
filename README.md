@@ -273,6 +273,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主��...
 - 👉 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
+- 👉 [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Text2SQL 资源精选列表。
 - 👉 [Awesome-DevOps-MCP-Servers](https://github.com/derisk-ai/awesome-devops-mcp-servers) - MCPServers in the DevOps domain.
 - 👉 [Awesome MCP Servers](https://mcpservers.org/) - A collection of servers for the Model Context Protocol.
 - 👉 [Awesome GitHub Copilot Customizations](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Cop[...]
