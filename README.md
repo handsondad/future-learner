@@ -5,8 +5,8 @@ AI-Powered Era of Learning
 
 - 👉 [VideoTutor](https://videotutor.io/) - 使用AI生成视频课件，The World's First Education Agent.
 - 👉 [Khan Academy](https://www.khanacademy.org/) - 提供大量免费课程，包括数学、编程、科学等。
-- 👉 [KhanMigo](https://www.khanmigo.ai/) - 一个专注于教育科技的在线平台，它结合了人工智能、机器学习和大数据技术来提供个性化和互动式的学习体验。�...
-- 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行�...
+- 👉 [KhanMigo](https://www.khanmigo.ai/) - 一个专注于教育科技的在线平台，它结合了人工智能、机器学习和大数据技术来提供个性化和互动式的学习体验。是可汗学院+GPT-4的前沿教育探索。
+- 👉 [CodeKidz](https://codekidz.ai/) - Welcome to CodeKidz - The Future of Education. Personalized AI-Powered Learning for Students, Parents, and Schools. 通过AI导师和游戏化内容进行学习。
 - 👉 [Together.ai](https://www.together.ai/) - 一个专注于推动人工智能技术民主化和协作的在线平台。该平台的核心愿景是通过聚集全球开发者、研究人员和[...]
 - 👉 [飞智平台](https://flagopen.baai.ac.cn/) - 智源研究院模型平台。
 - 👉 [Learning About](https://learning.google.com/experiments/learn-about/signup) - Learning About 是谷歌的新型学习平台，使用 AI 生成学习教程。
@@ -25,7 +25,7 @@ AI-Powered Era of Learning
 #### 模型开发
 
 - 👉 [Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-- 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型��...
+- 👉 [LiteLLM](https://github.com/BerriAI/litellm) - LiteLLM 是一个由 BerriAI 开发的开源 Python SDK 和代理服务器（Proxy Server），旨在统一调用 100 多个大语言模型（LLM）API 的接口，全部以 OpenAI 兼容格式提供。
 - 👉 [LangChain](https://www.langchain.com/) - LangChain 是目前构建 LLM 应用最流行的框架，其内置的 LLMChain 和 PromptTemplate 极其适合快速搭建自动标注流水线。
 - 👉 [LlamaIndex](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data.
 - 👉 [Agent Skills 标准](https://agentskills.io/home) - Specification and documentation for Agent Skills
@@ -49,9 +49,9 @@ AI-Powered Era of Learning
 
 - 🤗 [MLC AI](https://github.com/mlc-ai/mlc-llm) - 一个通用的大模型部署引擎，可以构建部署自己的机器学习和大模型。
 - 🤗 [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs.
-- 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在��...
+- 🤗 [SkyThought](https://github.com/NovaSky-AI/SkyThought) - NovaSky-AI团队开发的低成本高效语言模型系列，核心目标是通过优化训练策略和测试时缩放技术，在保持低成本的同时提升模型在数学、编程、科学推理等领域的性能。
 - 👉 [Nemo Skills](https://github.com/NVIDIA-NeMo/Skills) - A project to improve skills of large language models
-- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你�...
+- 👉 [SwanLab](https://github.com/SwanHubX/SwanLab) - 一个开源、现代化设计的深度学习训练跟踪与可视化工具同时支持云端/离线使用，适配30+主流框架，与你的实验代码轻松集成。
 
 #### AI安全工具
 
@@ -114,7 +114,7 @@ AI-Powered Era of Learning
 - 🤗 [MathModelAgent](https://github.com/jihe520/MathModelAgent) - 开源的 AI 应用，自动完成数学建模，生成一份完整的论文。
 - 🤗 [Crawl4AI](https://github.com/unclecode/crawl4ai) - Open-source LLM Friendly Web Crawler & Scraper.
 - 👉 [n8n工作流导航](https://n8nworkflow.net) - n8n是一个工作流自动化编排软件，这个网站收集已经编排好的n8n工作流，目前共有近2000个。
-- 👉 [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Open-AutoGLM 智源公司的开源安卓应用，使用自然语言，让 AI 操作手机，进行手机自动化，可以接入��...
+- 👉 [Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - Open-AutoGLM 智源公司的开源安卓应用，使用自然语言，让 AI 操作手机，进行手机自动化，可以接入各种模型，无需电脑端。
 
 ### AI多模态工具
 
@@ -129,7 +129,7 @@ AI-Powered Era of Learning
 
 - 👉 [Colab](https://colab.research.google.com/) - 一个提供自动机器学习和数据分析的工具。
 - 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https[...]
-- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析��...
+- 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
 - 👉 [TOAD](https://toad.readthedocs.io/) - TOAD是针对工业届建模而开发的工具包，针对风险评分卡的建模有针对性的功能。
 - 🤗 [LIDA](https://github.com/microsoft/lida) - Automatic Generation of Visualizations and Infographics using Large Language Models.
 - 🤗 [LAMBDA](https://github.com/AMA-CMFAI/LAMBDA) - This is the offical repository of paper "LAMBDA: A large Model Based Data Agent".
@@ -140,14 +140,14 @@ AI-Powered Era of Learning
 
 ### AI创作工具
 
-- 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可�...
+- 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可视化图表。
 - 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with profession[...]
 - 👉 [Text2Svg](https://text-to-svg.tool.tokyo/) - 文本直接转换成各种字体形式的Svg图。
 - 👉 [Nano Banana](https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-image-preview) - 谷歌发布了图像模型 Gemini 2.5 Flash Image. 谷歌称它是目前"最先进的图[...]
-- 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线��...
+- 👉 [TeachBooks](https://teachbooks.io/) - 一个专为教育工作者设计的开源协作平台。它主要解决两个核心痛点：如何让非技术人员轻松创建高质量的在线书籍，以及如何利用多媒体资源提升 K-12 阶段的教学体验。
 - 👉 [Next AI Draw.io](https://next-ai-drawio.jiang.jp/) - 通过自然语言命令，生成并修改 draw.io 流程图的网页应用。
-- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音��...
+- 👉 [MigicCube](https://github.com/idootop/MigicCube) - 使用小米 AI 眼镜，在 20 步内还原任何三阶魔方，原理是识别魔方状态，然后算出解法，最后通过语音给出操作提示。
 - 👉 [PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统。
 - 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。
 - 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 编程助手，专为 研发协作 和 研发管理 场景而设计。
@@ -155,12 +155,12 @@ AI-Powered Era of Learning
 
 ### AI学习工具
 
-- 👉 [Magic English Buddy](https://github.com/xckevin/magic-english-buddy) - 面向小朋友的英语阅读学习工具，通过 AI 生成个性化英语故事，提供文本朗读和单词高�...
+- 👉 [Magic English Buddy](https://github.com/xckevin/magic-english-buddy) - 面向小朋友的英语阅读学习工具，通过 AI 生成个性化英语故事，提供文本朗读和单词高亮。
 - 👉 [SurfSense](https://github.com/MODSetter/SurfSense) - 开源 AI 笔记本与研究平台，NotebookLM 的开源替代方案。
-- 👉 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物�...
+- 👉 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物理教学书。它源自荷兰著名的物理演示系列丛书 [ShowdeFysica](http://nvon.nl/)，旨在通过 99 个精选的物理演示实验，帮助教师和学生直观地理解物理学概念。该平台利用 [Jupyter Book](http://teachbooks.tudelft.nl/) 技术，将传统的纸质书转化为支持视频、Python 代码模拟和实时交互的数字教材。
 - 👉 [Claude Code互动教程](https://claude.nagdy.me/) - Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
 - 👉 [Claude Code Unpacked](https://ccunpacked.dev/) - 根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
-- 👉 [.claude/ 子目录](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - Claude Code 会生成 .claude/ 子目录，所有 AI 处理的底层数据都放在里面，本文研�...
+- 👉 [.claude/ 子目录](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - Claude Code 会生成 .claude/ 子目录，所有 AI 处理的底层数据都放在里面，本文研究这个目录到底有什么。
 
 ### 日常实用工具
 
@@ -185,15 +185,15 @@ AI-Powered Era of Learning
 - 👉 [DIY.org](https://diy.org/) - 一个专注于 DIY（Do It Yourself，自己动手做）项目和创意分享的在线平台。
 - 👉 [Minecraft](https://www.microsoft.com/en-us/makecode) - Microsoft提供的一套面向儿童的教育工具，包括游戏开发、Minecraft模组、硬件黑客等在线环境。
 - 👉 [GitHub Resume](https://resume.github.io/) - 该工具可以基于GitHub上的内容创建自己的简历。
-- 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般��...
-- 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案��...
+- 👉 [Chatbot Arena](https://lmarena.ai/) - 一个专注于展示和评测大型语言模型（LLM）性能的在线平台。这个平台的核心目标是为研究人员、开发者和一般用户提供一个直观、全面的比较工具，用以评估不同语言模型在多种任务和指标上的表现。
+- 👉 [Dify.ai](https://dify.ai/) - 一个专注于构建和管理多模态AI应用的平台。它旨在帮助开发者和企业利用先进的AI技术，快速构建定制化的AI解决方案，而无需从零开始开发复杂的AI模型。👉 [开源代码](https://github.com/langgenius/dify)
 - 👉 [腾讯兔小巢](https://txc.qq.com/) - 腾讯旗下的反馈互动社区工具，可以集成到软件产品中，收集用户的反馈。另外可以找到多款腾讯生态工具。
 - 👉 [HQDFM](https://www.nextpcb.com/dfm) - 一个在线PCB（Printed Circuit Board，印刷电路板）设计审查和可制造性分析（Design for Manufacturing，DFM）服务的平台。
 - 👉 [Voice-Pro](https://github.com/abus-aikorea/voice-pro) - AI 语音工具，具有多种功能（语音识别、翻译、语音克隆、文本转语音）。
 - 👉 [InternetSpeedTest](https://www.internetspeed.my/) - 一个网速测试工具。
-- 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它�...
+- 👉 [ChangeDetection](https://changedetection.io/) - 一个开源的服务，用来检测指定网页的某个部分是否发生变化。比如，网页上面的商品价格发生变化，它就会通知你。👉 [开源代码](https://github.com/dgtlmoon/changedetection.io)
 - 👉 [物言](https://mono.cards/) - 一个制作你的物品明信片的网站。
-- 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户��...
+- 👉 [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page) - BrickLink提供了一个名为Studio的工具，允许用户为乐高构建、渲染和创建原创作品。用户可以使用Studio来设计自己的乐高模型，并生成详细的搭建指南。[乐高日心仪](https://marian42.de/article/orrery/)就是用该工具设计，非常惊艳！
 - 👉 [iCraft Editor](https://icraft.gantcloud.com/) - 一个强大的3D架构图绘制工具，适用于需要直观展示复杂系统架构和实时监控数据的场景。
 - 👉 [Affinity](https://www.affinity.studio/) - 用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
 - 👉 [Teleprompter.today](https://www.teleprompter.today/) - 一个在线的提词器，为演讲者、视频创作者和直播主播提供文本提示，可以定制各种属性。
@@ -214,18 +214,18 @@ AI-Powered Era of Learning
 
 ## AI学习
 
-GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)一个精心策划的机器学习资源列表，旨在帮助初学者和专家找到与机器学习��...
+GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)一个精心策划的机器学习资源列表，旨在帮助初学者和专家找到与机器学习、深度学习和人工智能相关的高质量工具、软件、库、教程、论文、课程以及博客文章等。
 
 ### AI理论知识
 
-- 📚️ [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生��...
-- 📚️ [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归�...
-- 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学�...
+- 📚️ [《人工智能基础（高中版）》](https://book.douban.com/subject/30209224/) - 本书较科普，讲授人工智能的发展历史、基本概念以及实际应用，使学生理解人工智能的基本原理，特别是数据、算法与应用之间的相互关系。
+- 📚️ [《人工智能 (高中版)》](https://book.douban.com/subject/35479969/) - 本书较偏理论，介绍了人工智能的8个核心方向，包括搜索、机器学习、线性回归、决策树、神经网络、计算机视觉、自然语言处理、强化学习，特别归纳了其中适合中学阶段学习的关键知识点。
+- 👉 [看见概率论](https://probability.visualized.fun/) - 让概率论变得可见且有趣，通过直观的交互式演示，深入理解概率论中的经典定理， 让抽象的数学概念变得生动有趣。
 - 👉 [Embedding Projector](http://projector.tensorflow.org/) - 可视化单词嵌入表示。
 - 👉 [Playground可视化神经网络](https://playground.tensorflow.org/) - 可视化神经网络工作工程。👉 [开源代码](https://github.com/tensorflow/playground)
 - 👉 [神经网络的视觉解释](https://visualrambling.space/neural-network/) - 这个网站用动画解释"什么是神经网络"。
 - 👉 [Transformer可视化](https://bbycroft.net/llm) - 一个大语言模型的可视化工具。**相当好！**🤩
-- 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原�...
+- 👉 [Transformer逆向工程](https://transformer-circuits.pub/) - 一个专注于Transformer模型逆向工程研究的网站，旨在通过简化模型来探究Transformer背后的工作原理和机制。
 - 👉 [LLM解释可视化](https://openai.com/index/language-models-can-explain-neurons-in-language-models/) - 大语言模型的解释可视化。👉 [开源代码](https://github.com/openai/a[...]
 - 👉 [JMLR](https://www.jmlr.org/) - The Journal of Machine Learning Research (JMLR), provides an international forum for the electronic and paper publication of high-quality scholarly articles[...]
 - 👉 [Towards Data Science](https://towardsdatascience.com/) - 一个专注于数据科学和机器学习的博客平台。
@@ -235,13 +235,13 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习机器学习》](https://hml.boyuai.com/) - 上海交通大学推出的机器学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)
 - 📚️ [《动手学习深度学习》](https://zh.d2l.ai/) - 面向中文读者的能运行、可讨论的深度学习教科书。👉 [开源代码](https://github.com/d2l-ai/d2l-zh)， 📺[...]
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Han[...]
-- 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度�...
+- 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 - 👉 [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md) - 工程师的机器学习教程，解释基本概念。
 
 ### AI动手实践
 
 - 👉 [Happy-LLM](https://github.com/datawhalechina/happy-llm) - 从零开始的大语言模型原理与实践教程。
-- 👉 [Self-LLM](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内�...
+- 👉 [Self-LLM](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程。
 - 👉 [Hello-Agent](https://github.com/datawhalechina/hello-agents) - 《从零开始构建智能体》——从零开始的智能体原理与实践教程。
 - 👉 [LLM Engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course.
 - 👉 [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -261,12 +261,12 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 
 - 👉 [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - This is a proof of concept for an AI-powered hedge fund. The goal of this project is to explore the use of AI to make trading de[...]
 - 👉 [OpenBB](https://github.com/OpenBB-finance/OpenBB) - The OpenBB Platform offers access to equity, options, crypto, forex, macro economy, fixed income, and more while also offering a broad [...]
-- 👉 [LEAN](https://www.lean.io/) - LEAN is the world's leading open-source quantitative trading technology. Research, backtest, optimize, and then live-trade on hundreds of venues. 👉 [开��[...]
-- 👉 [YFinance](https://github.com/ranaroussi/yfinance) - YFinance 是一个非常流行且功能强大的 Python 第三方库，专门用于从 Yahoo Finance（雅虎财经） 免费获取全�...
+- 👉 [LEAN](https://www.lean.io/) - LEAN is the world's leading open-source quantitative trading technology. Research, backtest, optimize, and then live-trade on hundreds of venues. 👉 [开源代码](https://github.com/QuantConnect/Lean) 类似国内平台👉 [开源代码](https://github.com/vnpy/vnpy)
+- 👉 [YFinance](https://github.com/ranaroussi/yfinance) - YFinance 是一个非常流行且功能强大的 Python 第三方库，专门用于从 Yahoo Finance（雅虎财经） 免费获取全球金融市场数据。它被广泛应用于量化交易、金融分析、学术研究以及教学等领域。
 
 ### AI->资讯
 
-- 👉 [Hacker News](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并��...
+- 👉 [Hacker News](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - 👉 [Reddit Top 10](https://reddit-top.pages.dev/) - Browse the hottest posts from your favorite subreddits.
 - 👉 [AI Conference Deadlines](https://aideadlin.es/) - Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. To add/edit a conference, send in a pull request. 👉 [开源代码](https[...]
 
@@ -281,7 +281,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 ## AI-Awesome
 
 - 👉 [Best-of Machine Learning with Python](https://github.com/ml-tooling/best-of-ml-python) - A ranked list of awesome machine learning Python libraries. Updated weekly.
-- 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主��...
+- 👉 [Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - 👉 [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) - MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients.
 - 👉 [Awesome-Domain-LLM](https://github.com/luban-agi/Awesome-Domain-LLM) - 收集和梳理垂直领域的开源模型、数据集及评测基准。
 - 👉 [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) - Text2SQL 资源精选列表。
