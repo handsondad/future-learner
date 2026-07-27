@@ -42,6 +42,8 @@ AI-Powered Era of Learning
 - 👉 [SiliconFlow](https://siliconflow.cn/) - 国内LLM的API平台。
 - 👉 [Xorbits Inference](https://github.com/xorbitsai/inference) - Swap GPT for any LLM by changing a single line of code. Xinference lets you run open-source, speech, and multimodal models on c[...]
 - 👉 [canirun.ai](https://www.canirun.ai) - 网页检测你的机器可以运行那些本地的AI模型。
+- 👉 [OmniRoute](https://github.com/diegosouzapw/OmniRoute) - 免费的 AI 网关，统一路由多家模型提供商并支持自动故障切换。
+- 👉 [CLI Proxy API](https://github.com/router-for-me/CLIProxyAPI) - 为 OpenAI/Gemini/Claude/Codex/Grok 等提供兼容接口的本地代理服务。
 
 #### 模型优化
 
@@ -54,6 +56,7 @@ AI-Powered Era of Learning
 #### AI安全工具
 
 - 👉 [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
+- 👉 [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - 腾讯朱雀实验室推出的一站式 AI 安全测试平台，可扫描 AI 应用漏洞与安全风险。
 
 #### Agent工具
 
@@ -67,6 +70,12 @@ AI-Powered Era of Learning
 - 👉 [OpenClaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 - 👉 [claw-code](https://github.com/instructkr/claw-code) - 编译为其他语言的Claude code
 - 👉 [Open Agent SDK](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
+- 👉 [OpenCodeReview](https://github.com/alibaba/open-code-review) - AI 驱动的代码审查 CLI，可对 Git diff 与文件进行结构化审查。
+- 👉 [Skills For Real Engineers](https://github.com/mattpocock/skills) - 面向工程实践的 Agent Skills 集合。
+- 👉 [Agent Skills](https://github.com/addyosmani/agent-skills) - 面向 AI 编程代理的生产级工程技能集合。
+- 👉 [Awesome GitHub Copilot](https://github.com/github/awesome-copilot) - GitHub Copilot 相关的社区资源与技能合集。
+- 👉 [Superpowers](https://github.com/obra/superpowers) - 一套可组合的 coding agent 方法论与技能体系。
+- 👉 [CC Switch](https://github.com/farion1231/cc-switch) - Claude Code/Codex/Gemini CLI 等多代理工具的一体化管理器。
 
 #### MCP工具
 
@@ -147,6 +156,7 @@ AI-Powered Era of Learning
 ### AI学习工具
 
 - 👉 [Magic English Buddy](https://github.com/xckevin/magic-english-buddy) - 面向小朋友的英语阅读学习工具，通过 AI 生成个性化英语故事，提供文本朗读和单词高�...
+- 👉 [SurfSense](https://github.com/MODSetter/SurfSense) - 开源 AI 笔记本与研究平台，NotebookLM 的开源替代方案。
 - 👉 [Show the Physics](https://interactivetextbooks.tudelft.nl/showthephysics/Introduction/About.html) - 这是由荷兰代尔夫特理工大学（TU Delft）开发的一本开源互动式物�...
 - 👉 [Claude Code互动教程](https://claude.nagdy.me/) - Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。
 - 👉 [Claude Code Unpacked](https://ccunpacked.dev/) - 根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
@@ -155,6 +165,7 @@ AI-Powered Era of Learning
 ### 日常实用工具
 
 - 👉 [MapLab](https://github.com/ethz-asl/maplab) - 一个地图绘制工具包。
+- 👉 [AI Job Search](https://github.com/MadsLorentzen/ai-job-search) - 本地运行的 AI 求职助手项目。
 - 👉 [Pango](https://pango.gnome.org) - 一个高性能国际字体渲染库，方便制作各类字体。
 - 👉 [Materials Project](https://next-gen.materialsproject.org/) - 材料科学研究平台。可视化工具包[Pymatgen](https://pymatgen.org/)和[开源代码](https://github.com/materialspr[...]
 - 👉 [Excalidraw](https://excalidraw.com/) - 一个开源的白板工具。具有AI功能[Smart Excalidraw](https://github.com/liujuntao123/smart-excalidraw-next)使用自然语言让 AI 生成[...]
