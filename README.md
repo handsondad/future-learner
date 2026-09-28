@@ -57,9 +57,11 @@ AI-Powered Era of Learning
 
 - 👉 [Guardrails AI](https://github.com/guardrails-ai/guardrails) - Adding guardrails to large language models.
 - 👉 [AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) - 腾讯朱雀实验室推出的一站式 AI 安全测试平台，可扫描 AI 应用漏洞与安全风险。
+- 👉 [Codex Security](https://github.com/openai/codex-security) - OpenAI 官方推出的基于 Codex 的命令行代码漏洞扫描工具。
 
 #### Agent工具
 
+- 👉 [Cloudflare OS](https://github.com/cloudflare/cloudflare-os) - 基于 Cloudflare Workers 构建的 Agent 工作空间，可结合企业上下文和系统创建文档、构建应用并运行 Agent。
 - 👉 [Google Fullstack Agents](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini  and LangGraph.
 - 👉 [Pydantic-AI](https://github.com/pydantic/pydantic-ai) - Agent Framework to use Pydantic with LLMs.
 - 👉 [CrewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work toget[...]
@@ -104,7 +106,8 @@ AI-Powered Era of Learning
 
 ### AI自动化工具
 
-- 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/[...]
+- 👉 [PhysiClaw](https://github.com/physiclaw/PhysiClaw) - 开源 AI 系统，配合自购硬件可通过摄像头观察 iPhone 屏幕，并由机械臂操作手机。
+- 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/[…]
 - 🤗 [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural lang[...]
 - 👉 [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - 👉 [Web-UI](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
@@ -127,6 +130,7 @@ AI-Powered Era of Learning
 
 ### AI数据分析工具
 
+- 👉 [Great Tables](https://github.com/posit-dev/great-tables) - 一个用于 Python 的表格生成库，可创建复杂、精美的表格。
 - 👉 [Colab](https://colab.research.google.com/) - 一个提供自动机器学习和数据分析的工具。
 - 🤗 [PandasAI](https://pandas-ai.com/) - Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG. 👉 [开源代码](https[...]
 - 👉 [PyGWalker](https://github.com/Kanaries/pygwalker/) - 一个用于探索性数据分析（EDA）和数据可视化的Python库。提供一个交互式用户界面，方便可视化分析数据。
@@ -140,6 +144,7 @@ AI-Powered Era of Learning
 
 ### AI创作工具
 
+- 👉 [Palmier Pro](https://github.com/palmier-io/palmier-pro) - 开源 AI 视频编辑器，可通过提示词编辑视频。
 - 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可视化图表。
 - 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with profession[...]
@@ -211,6 +216,15 @@ AI-Powered Era of Learning
 - 👉 [tunnel.gg](https://tunnl.gg/) - 一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
 - 👉 [FontInAss](https://github.com/Yuri-NagaSaki/FontInAss) - 开源的字幕字体子集化工具，将所需的字体字形嵌入字幕文件。
 - 👉 [OpenScreen](https://github.com/siddharthvaddem/openscreen) - 跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。
+- 👉 [ScriptSpool](https://scriptspool.pixzens.com/zh/editor) - 将一段代码转换成逐键输入的动画。
+- 👉 [OpenConnector](https://github.com/oomol-lab/open-connector) - 一款开源的密码连接网关。
+- 👉 [Chirp](https://github.com/solst-ice/chirp) - 通过扬声器和麦克风发送、接收数据的开源工具。
+- 👉 [Bento Slides](https://bento.page/slides/) - 只需一个 HTML 文件的 PowerPoint 编辑器和播放器。👉 [开源代码](https://github.com/nyblnet/bento)
+- 👉 [网页滚动动画图鉴](https://scroll-driven-animations.style/) - 收集使用 Web Animations API（WAAPI）和 CSS Animations API 实现的网页滚动动画效果。
+- 👉 [mini-img-editor](https://github.com/xdadda/mini-photo-editor) - 使用 WebGL 的在线图片编辑器原型，界面简洁。
+- 👉 [capcut-cli](https://github.com/renezander030/capcut-cli) - 剪映（CapCut）的非官方命令行工具，可在终端中创建和编辑视频。
+- 👉 [网络设备拓扑图设计工具](https://gpcb.net/net/) - 在线绘制网络设备拓扑图。
+- 👉 [视觉风格图鉴](https://ruanyf.github.io/squoosh/editor) - 用一颗苹果展示 100 多种视觉风格。
 
 ## AI学习
 
@@ -237,6 +251,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 📚️ [《动手学习强化学习》](https://hrl.boyuai.com/) - 旨在为国内学生和研究者提供一个友好的强化学习环境。👉 [开源代码](https://github.com/boyu-ai/Han[...]
 - 📚️ [《Neural Networks and Deep Learning》](http://neuralnetworksanddeeplearning.com/) - 量子计算领域大牛[Michael Nielsen](https://michaelnielsen.org/)写的神经网络和深度学习入门书籍。👉 [开源代码](https://github.com/mnielsen/neural-networks-and-deep-learning)
 - 👉 [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md) - 工程师的机器学习教程，解释基本概念。
+- 👉 [图解分布式系统原理](https://www.codedump.info/dist-system-cn/) - 通过图示和直观解释，深入探讨分布式系统背后的核心思想。
 
 ### AI动手实践
 
