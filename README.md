@@ -107,7 +107,7 @@ AI-Powered Era of Learning
 ### AI自动化工具
 
 - 👉 [PhysiClaw](https://github.com/physiclaw/PhysiClaw) - 开源 AI 系统，配合自购硬件可通过摄像头观察 iPhone 屏幕，并由机械臂操作手机。
-- 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/[…]
+- 👉 [DroidRun](https://www.droidrun.ai/) - Enable AI to control Android. We make Android accessible for AI agents by extracting all interactive elements. 👉 [开源代码](https://github.com/[...]
 - 🤗 [UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural lang[...]
 - 👉 [Skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - 👉 [Web-UI](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
