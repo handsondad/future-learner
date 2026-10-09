@@ -145,6 +145,10 @@ AI-Powered Era of Learning
 ### AI创作工具
 
 - 👉 [Palmier Pro](https://github.com/palmier-io/palmier-pro) - 开源 AI 视频编辑器，可通过提示词编辑视频。
+- 👉 [Video Transcript](https://github.com/anghunk/video-transcript) - 在浏览器中编辑并烧录视频字幕，全程本地处理，并支持本地语音识别自动生成字幕。
+- 👉 [Yovoice](https://github.com/leemysw/yovoice) - 适用于 macOS 和 Windows 的开源声音创作工具，可本地进行文字转语音、音色复刻和情绪控制，并支持自主选择 TTS 模型，无需云端 API 或按字数付费。
+- 👉 [Crafting Apps](https://getartcraft.com/apps) - 展示以 Rust 重写 Adobe 套件 7 款主力产品的开源项目。
+- 👉 [Filmcraft](https://github.com/storytold/filmcraft) - 开源视频剪辑软件。
 - 👉 [Smart Mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的Web应用程序，可将文本内容智能转换为Mermaid格式的代码，并将其渲染成可视化图表。
 - 👉 [Mermaid Live Editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - 👉 [Taper Fade Generator](https://lowfade.app/) - Transform your look with our AI-powered low fade and taper fade generator. Upload your photo and instantly see how you'd look with profession[...]
