@@ -124,7 +124,8 @@ AI-Powered Era of Learning
 - 👉 [Archify](https://github.com/tt-a1i/archify) - 把抽象想法与业务流程直接转成规范的系统架构图。
 - 👉 [Diagram Design](https://github.com/cathrynlavery/diagram-design) - 生成杂志编辑风的扁平化专业图表，支持 45 种图表类型。
 - 👉 [Anatomy](https://github.com/wheresryan22/anatomy) - Agent 技能，把现实机器与复杂系统画成可交互的等距插画，输出带 WebGL 着色与 3D 效果的精致 SVG。
-- 👉 [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 让 AI 带着顶级产品经理的眼光审视并优化应用界面。
+- 👉 [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 为 AI agent 提供跨平台的专业 UI/UX 设计知识，辅助构建、审视与优化应用界面。
+- 👉 [Baoyu Design](https://github.com/JimLiu/baoyu-design) - 以 Agent Skill 在本地实现 Claude Design 风格的设计工作流，支持 Cursor、Codex、DeepSeek Harness 等工具，生成独立 HTML 形式的 UI 设计稿、交互原型、演示文稿与线框图，无需访问 claude.ai/design，推荐搭配 Opus 或 Claude。
 - 👉 [PPT Master](https://github.com/hugohe3/ppt-master) - 把文档或主题转成真正可编辑的原生 PowerPoint，含原生形状、转场与动画。
 
 **文案、视频与效率**
@@ -161,6 +162,7 @@ AI-Powered Era of Learning
 - 🤗 [MI-GPT](https://github.com/idootop/mi-gpt) - 一个开源实现小爱音箱接入大模型。
 - 🤗 [Lobe Chat](https://github.com/lobehub/lobehub) - 一键免费拥有你自己的Chat应用。
 - 🤗 [Cherry Studio](https://www.cherry-ai.com/) - Cherry Studio is a desktop client that supports for multiple LLM providers. 👉 [开源代码](https://github.com/CherryHQ/cherry-studio)
+- 👉 [Phind](https://www.phind.com/) - 面向开发者的 AI 搜索。
 
 
 ### AI自动化工具
@@ -222,6 +224,9 @@ AI-Powered Era of Learning
 - 👉 [Uwarp](https://www.uwarp.design/about) - Uwarp 是一个专注于为设计师提供 Figma 高级插件（Premium Plugins）的独立工作室。
 - 👉 [MonkeyCode](https://github.com/chaitin/MonkeyCode) - 长亭科技开源的企业级 AI 办公工作台，可把编码任务、研发协作与研发管理交给 AI 代理完成。
 - 👉 [ArcReel](https://github.com/ArcReel/ArcReel) - 开源的 AI 视频生成工作台，输入一本小说，自动完成剧本、人物设计、分镜、短视频生成。
+- 👉 [Remove.bg](https://www.remove.bg/) - 一键去除图片背景。
+- 👉 [Cleanup.pictures](https://cleanup.pictures/) - 擦除图片中的物体。
+- 👉 [Unscreen](https://www.unscreen.com/) - 去除视频背景。
 
 ### AI学习工具
 
@@ -233,6 +238,13 @@ AI-Powered Era of Learning
 - 👉 [Claude Code Unpacked](https://ccunpacked.dev/) - 根据 Claude Code 泄漏的源码，一步步图解演示，输入提示词后软件内部如何处理。
 - 👉 [.claude/ 子目录](https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder) - Claude Code 会生成 .claude/ 子目录，所有 AI 处理的底层数据都放在里面，本文研究这个目录到底有什么。
 - 👉 [OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - 清华团队开源的多 Agent 互动课堂，一键生成沉浸式、多角色协作的学习体验。
+- 👉 [Unpaywall](https://unpaywall.org/) - 免费获取研究论文。
+- 👉 [Open Library](https://openlibrary.org/) - 在线借阅图书。
+- 👉 [DOAJ](https://doaj.org/) - 免费学术期刊目录。
+- 👉 [Project Gutenberg](https://www.gutenberg.org/) - 7 万+ 本免费电子书。
+- 👉 [OpenStax](https://openstax.org/) - 免费教科书。
+- 👉 [Open Culture](https://www.openculture.com/) - 免费课程与文化资源。
+- 👉 [Wolfram Alpha](https://www.wolframalpha.com/) - 解答复杂数学与科学问题。
 
 ### 日常实用工具
 
@@ -298,6 +310,52 @@ AI-Powered Era of Learning
 - 👉 [MenuBarMijia](https://gitcode.com/gh_mirrors/me/MenuBarMijia) - 原生 macOS（Swift 6 + SwiftUI）与 Windows 11（Tauri v2）菜单栏/托盘控制器，跨端管理米家与 Home Assistant，支持快捷键盲搜、批量全关、语音控制与 Mac 状态自动化。原 GitHub 仓库已下架，此处为可访问的镜像。
 - 👉 [3z9wopt](https://github.com/3z9w/3z9wopt) - 一款小巧好用的 Windows 优化软件，包含清理垃圾、系统优化、硬件查询、启动项管理、磁盘空间占用、蓝屏分析等 10 个模块和 34 个系统原生小工具。
 - 👉 [WeRead Book Exporter](https://github.com/WANGXIN-567/weread-book-exporter) - 微信读书无损全书导出工具，一键导出双字体精排的 PDF / EPUB / Markdown 笔记（适配 Obsidian 与 Notion），解决了网页端翻页漏字的问题。
+- 👉 [Internet Archive](https://archive.org/) - 互联网档案馆。
+- 👉 [Photopea](https://www.photopea.com/) - 在线 Photoshop 替代品。
+- 👉 [Squoosh](https://squoosh.app/) - 在线图片压缩。
+- 👉 [Carbon](https://carbon.now.sh/) - 生成精美的代码图片。
+- 👉 [Ray.so](https://ray.so/) - 生成代码截图。
+- 👉 [Shots.so](https://shots.so/) - 产品截图样机。
+- 👉 [Smartmockups](https://smartmockups.com/) - 在线创建样机。
+- 👉 [Have I Been Pwned](https://haveibeenpwned.com/) - 查询邮箱是否出现在数据泄露中。
+- 👉 [VirusTotal](https://www.virustotal.com/) - 扫描文件与网址是否含恶意内容。
+- 👉 [Privnote](https://privnote.com/) - 阅后即焚的加密笔记。
+- 👉 [Temp Mail](https://temp-mail.org/) - 临时邮箱。
+- 👉 [10 Minute Mail](https://10minutemail.com/) - 10 分钟临时邮箱。
+- 👉 [File.io](https://www.file.io/) - 临时文件分享。
+- 👉 [Archive.ph](https://archive.ph/) - 保存网页快照。
+- 👉 [SimilarSites](https://www.similarsites.com/) - 查找相似网站。
+- 👉 [Raindrop.io](https://raindrop.io/) - 书签管理器。
+- 👉 [Downdetector](https://downdetector.com/) - 查看网站与服务是否宕机。
+- 👉 [TinEye](https://tineye.com/) - 以图搜图。
+- 👉 [AlternativeTo](https://alternativeto.net/) - 查找软件替代品。
+- 👉 [JustWatch](https://www.justwatch.com/) - 查询影视在哪个平台可看。
+- 👉 [Regex101](https://regex101.com/) - 正则表达式测试。
+- 👉 [Code Beautify](https://codebeautify.org/) - 代码格式化。
+- 👉 [JSON Formatter](https://jsonformatter.org/) - JSON 格式化。
+- 👉 [explainshell](https://explainshell.com/) - 解释终端命令。
+- 👉 [Fast.com](https://fast.com/) - 网速测试。
+- 👉 [Smallpdf](https://smallpdf.com/) - PDF 工具集。
+- 👉 [iLovePDF](https://www.ilovepdf.com/) - PDF 合并与拆分。
+
+### 设计灵感
+
+- 👉 [ThreeUI](https://threeui.com/) - 80+ 个 three.js 落地页模板。
+- 👉 [Lapa Ninja](https://www.lapa.ninja/) - 7,300+ 个落地页案例，附完整截图与视频。
+- 👉 [Curated.design](https://curated.design/) - 真实在线网站合集，可按风格或行业筛选。
+- 👉 [Landingfolio](https://www.landingfolio.com/) - 落地页、模板与组件灵感库。
+- 👉 [SaaS Landing Page](https://saaslandingpage.com/) - 只收录 SaaS 类落地页案例。
+- 👉 [One Page Love](https://onepagelove.com/) - 单页网站与模板合集。
+- 👉 [Dark Design](https://www.dark.design/) - 精选深色主题网站。
+
+### 音乐与声音
+
+- 👉 [Radio Garden](https://radio.garden/) - 探索全球电台。
+- 👉 [Every Noise at Once](https://everynoise.com/) - 探索音乐流派。
+- 👉 [Tunefind](https://www.tunefind.com/) - 查找影视剧中的歌曲。
+- 👉 [Music for Programming](https://musicforprogramming.net/) - 专注编程的背景音乐。
+- 👉 [myNoise](https://mynoise.net/) - 定制背景白噪音。
+- 👉 [Coffitivity](https://coffitivity.com/) - 咖啡馆环境音。
 
 ## AI学习
 
@@ -338,6 +396,11 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 ### AI论文
 
 - 📚️ [Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
+- 👉 [Elicit](https://elicit.org/) - AI 研究助手。
+- 👉 [Consensus](https://consensus.app/) - 基于研究证据的 AI 问答。
+- 👉 [Connected Papers](https://www.connectedpapers.com/) - 可视化论文之间的关联。
+- 👉 [Semantic Scholar](https://www.semanticscholar.org/) - 学术搜索引擎。
+- 👉 [SciSpace](https://scispace.com/) - 帮助理解研究论文。
 
 ## AI作品
 
@@ -363,6 +426,7 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [HackerBooks](https://hackerbooks.org/) - 同一套逻辑的书单版，把 Hacker News 长期推荐的书按主题归类，可以顺着感兴趣的主题挖书。
 - 👉 [HackerPodcasts](https://www.hackerpodcasts.org/) - 播客版，按推荐人数与跨月份数排序 Hacker News 听众认可的节目，可看经典榜单与上升势头。
 - 👉 [AI Conference Deadlines](https://aideadlin.es/) - Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines. To add/edit a conference, send in a pull request. 👉 [开源代码](https://github.com/paperswithcode/ai-deadlines)
+- 👉 [Summarize.tech](https://www.summarize.tech/) - YouTube 视频摘要。
 
 ### AI->软件
 
@@ -389,25 +453,6 @@ GitHub上总结的一份[Awesome ML](https://github.com/josephmisiti/awesome-mac
 - 👉 [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) - 高效自动化学术科研工具资源精选列表。
 - 👉 [Awesome AI Agents](https://github.com/e2b-dev/awesome-ai-agents) - 自主 AI Agent 资源列表，涵盖各类 Agent 框架、工具与开源项目。
 - 👉 [Awesome Workflow Automation](https://github.com/dariubs/awesome-workflow-automation) - 精选的工作流自动化软件、引擎与工具列表。
-
-## GitHub 趋势速览
-
-### 2026-10-25 ~ 11-01 周榜 Top 10
-
-前十几乎全是 agent 技能，其中四个在解决同一个问题——让 AI 做出来的页面别再一眼就看出是 AI 做的。一年前大家比谁的模型更聪明，现在最火的是怎么让 agent 有分寸、有方法、有审美。
-
-| # | 项目 | 星标 | 本周 | 一句话 |
-|---|------|------|------|--------|
-| 01 | [Hallmark](https://github.com/Nutlope/hallmark) | 44,260 | +12,062 | 反 AI 味设计技能，50 套主题发三张牌，真浏览器八种宽度验收 |
-| 02 | [Security Audit Skill](https://github.com/cloudflare/security-audit-skill) | 55,725 | +11,908 | Cloudflare 漏洞挖掘系统的种子，疑点由全新 agent 专门证伪 |
-| 03 | [Claude SEO](https://github.com/AgriciDaniel/claude-seo) | 25,214 | +4,814 | 一个人的 SEO 团队，26 子技能 + 19 agent，顺带评估 AI 引用概率 |
-| 04 | [Impeccable](https://github.com/pbakaus/impeccable) | 98,706 | +12,031 | 24 个设计命令 + 62 条规则，专抓 Inter 字体与紫蓝渐变 |
-| 05 | [Superpowers](https://github.com/obra/superpowers) | 310,286 | +5,636 | 先问需求、先写测试、子 agent 互相检查的开发方法论 |
-| 06 | [Karpathy CLAUDE.md](https://github.com/multica-ai/andrej-karpathy-skills) | 227,682 | +4,277 | 一个文件四条原则，只改该改的地方 |
-| 07 | [TradingAgents](https://github.com/TauricResearch/TradingAgents) | 119,211 | +5,483 | 分析师、多空研究员、交易员、风控、组合经理组成的交易公司 |
-| 08 | [Interface Skills](https://github.com/jakubkrehel/skills) | 9,716 | +1,272 | 一门技能一样界面手艺，还能审提交有没有改坏界面 |
-| 09 | [Taste Skill](https://github.com/Leonxlnx/taste-skill) | 107,323 | +4,975 | 研究 247 个网站得出 20 个设计方向，每次发三张牌挑一个 |
-| 10 | [T3 Code](https://github.com/pingdotgg/t3code) | 36,291 | +3,718 | 接管已有 Claude Code、Codex、Cursor、OpenCode 的遥控器 |
 
 ## AI创业
 
